@@ -7,6 +7,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 
 1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Mayya-7308/XM32U98Y?sharingId=3A629E25F8F9040C)
+2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/Mayya-7308/UY5XDSA3?sharingId=3A629E25F8F9040C)
 
 
 ## Reflections
